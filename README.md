@@ -10,7 +10,7 @@ Notebooks: "Compass EDA" is our beginning analysis looking at the data and findi
 includes hypothesis tests and machine learning algorithms looking at the accuracy of the algorithm and 
 discrepancies in scores among age race etc. 
            
-"Compas Cannabis" and "Compas Cocaine" and "Drug Posession" are looking at distributions of decile scores for 
+"Compas Cannabis", "Compas Cocaine" and "Drug Posession" are looking at distributions of decile scores for 
 people charged with drug related offenses for different demographics
            
            
